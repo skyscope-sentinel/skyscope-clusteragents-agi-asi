@@ -1,0 +1,903 @@
+{
+  "schema": "skyscope.neural_state.v1",
+  "generated_at": "2026-02-15T04:31:32Z",
+  "notes": "State is a summary-only export and must not include private chain-of-thought.",
+  "agents": [
+    {
+      "agent_id": "architect_asi",
+      "cluster": "cluster_1",
+      "definition_path": "cluster_1/architect_asi.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "compactor",
+      "cluster": "cluster_1",
+      "definition_path": "cluster_1/compactor.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "feedback",
+      "cluster": "cluster_1",
+      "definition_path": "cluster_1/feedback.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "logic_engineer",
+      "cluster": "cluster_1",
+      "definition_path": "cluster_1/logic_engineer.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "protocol",
+      "cluster": "cluster_1",
+      "definition_path": "cluster_1/protocol.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "security",
+      "cluster": "cluster_1",
+      "definition_path": "cluster_1/security.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "supervisor",
+      "cluster": "cluster_1",
+      "definition_path": "cluster_1/supervisor.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "sync",
+      "cluster": "cluster_1",
+      "definition_path": "cluster_1/sync.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "temporal_hub",
+      "cluster": "cluster_1",
+      "definition_path": "cluster_1/temporal_hub.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "api_int",
+      "cluster": "cluster_2",
+      "definition_path": "cluster_2/api_int.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "auditor",
+      "cluster": "cluster_2",
+      "definition_path": "cluster_2/auditor.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "automation",
+      "cluster": "cluster_2",
+      "definition_path": "cluster_2/automation.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "backend",
+      "cluster": "cluster_2",
+      "definition_path": "cluster_2/backend.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "bug_hunter",
+      "cluster": "cluster_2",
+      "definition_path": "cluster_2/bug_hunter.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "db_master",
+      "cluster": "cluster_2",
+      "definition_path": "cluster_2/db_master.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "frontend",
+      "cluster": "cluster_2",
+      "definition_path": "cluster_2/frontend.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "kernel_dev",
+      "cluster": "cluster_2",
+      "definition_path": "cluster_2/kernel_dev.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "pipeline",
+      "cluster": "cluster_2",
+      "definition_path": "cluster_2/pipeline.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "accounts",
+      "cluster": "cluster_3",
+      "definition_path": "cluster_3/accounts.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "mimic",
+      "cluster": "cluster_3",
+      "definition_path": "cluster_3/mimic.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "optimizer",
+      "cluster": "cluster_3",
+      "definition_path": "cluster_3/optimizer.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "payouts",
+      "cluster": "cluster_3",
+      "definition_path": "cluster_3/payouts.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "proxy",
+      "cluster": "cluster_3",
+      "definition_path": "cluster_3/proxy.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "scout",
+      "cluster": "cluster_3",
+      "definition_path": "cluster_3/scout.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "scraper",
+      "cluster": "cluster_3",
+      "definition_path": "cluster_3/scraper.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "solver",
+      "cluster": "cluster_3",
+      "definition_path": "cluster_3/solver.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "validator",
+      "cluster": "cluster_3",
+      "definition_path": "cluster_3/validator.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "audit_log",
+      "cluster": "cluster_4",
+      "definition_path": "cluster_4/audit_log.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "compliance",
+      "cluster": "cluster_4",
+      "definition_path": "cluster_4/compliance.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "defi",
+      "cluster": "cluster_4",
+      "definition_path": "cluster_4/defi.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "exchange",
+      "cluster": "cluster_4",
+      "definition_path": "cluster_4/exchange.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "gas",
+      "cluster": "cluster_4",
+      "definition_path": "cluster_4/gas.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "guardian",
+      "cluster": "cluster_4",
+      "definition_path": "cluster_4/guardian.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "market",
+      "cluster": "cluster_4",
+      "definition_path": "cluster_4/market.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "router",
+      "cluster": "cluster_4",
+      "definition_path": "cluster_4/router.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "staker",
+      "cluster": "cluster_4",
+      "definition_path": "cluster_4/staker.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "ab_tester",
+      "cluster": "cluster_5",
+      "definition_path": "cluster_5/ab_tester.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "ad_spend",
+      "cluster": "cluster_5",
+      "definition_path": "cluster_5/ad_spend.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "growth_strat",
+      "cluster": "cluster_5",
+      "definition_path": "cluster_5/growth_strat.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "lead_gen",
+      "cluster": "cluster_5",
+      "definition_path": "cluster_5/lead_gen.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "partner_scout",
+      "cluster": "cluster_5",
+      "definition_path": "cluster_5/partner_scout.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "referral",
+      "cluster": "cluster_5",
+      "definition_path": "cluster_5/referral.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "retention",
+      "cluster": "cluster_5",
+      "definition_path": "cluster_5/retention.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "seo_sentinel",
+      "cluster": "cluster_5",
+      "definition_path": "cluster_5/seo_sentinel.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "virality",
+      "cluster": "cluster_5",
+      "definition_path": "cluster_5/virality.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "creative_dir",
+      "cluster": "cluster_6",
+      "definition_path": "cluster_6/creative_dir.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "empathy_bot",
+      "cluster": "cluster_6",
+      "definition_path": "cluster_6/empathy_bot.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "prompt_artist",
+      "cluster": "cluster_6",
+      "definition_path": "cluster_6/prompt_artist.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "repurposer",
+      "cluster": "cluster_6",
+      "definition_path": "cluster_6/repurposer.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "social_mimic",
+      "cluster": "cluster_6",
+      "definition_path": "cluster_6/social_mimic.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "tech_writer",
+      "cluster": "cluster_6",
+      "definition_path": "cluster_6/tech_writer.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "translation",
+      "cluster": "cluster_6",
+      "definition_path": "cluster_6/translation.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "ux_auditor",
+      "cluster": "cluster_6",
+      "definition_path": "cluster_6/ux_auditor.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "video_gen",
+      "cluster": "cluster_6",
+      "definition_path": "cluster_6/video_gen.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "arxiv_scout",
+      "cluster": "cluster_7",
+      "definition_path": "cluster_7/arxiv_scout.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "code_audit",
+      "cluster": "cluster_7",
+      "definition_path": "cluster_7/code_audit.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "comp_track",
+      "cluster": "cluster_7",
+      "definition_path": "cluster_7/comp_track.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "data_sci",
+      "cluster": "cluster_7",
+      "definition_path": "cluster_7/data_sci.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "deep_research",
+      "cluster": "cluster_7",
+      "definition_path": "cluster_7/deep_research.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "forecaster",
+      "cluster": "cluster_7",
+      "definition_path": "cluster_7/forecaster.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "synthesizer",
+      "cluster": "cluster_7",
+      "definition_path": "cluster_7/synthesizer.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "temporal_sim",
+      "cluster": "cluster_7",
+      "definition_path": "cluster_7/temporal_sim.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "trend_analyst",
+      "cluster": "cluster_7",
+      "definition_path": "cluster_7/trend_analyst.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "commander",
+      "cluster": "cluster_8",
+      "definition_path": "cluster_8/commander.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "fin_analyst",
+      "cluster": "cluster_8",
+      "definition_path": "cluster_8/fin_analyst.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "finalizer",
+      "cluster": "cluster_8",
+      "definition_path": "cluster_8/finalizer.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "goal_tracker",
+      "cluster": "cluster_8",
+      "definition_path": "cluster_8/goal_tracker.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "governance",
+      "cluster": "cluster_8",
+      "definition_path": "cluster_8/governance.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "liaison",
+      "cluster": "cluster_8",
+      "definition_path": "cluster_8/liaison.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "resource_alloc",
+      "cluster": "cluster_8",
+      "definition_path": "cluster_8/resource_alloc.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "risk_assessor",
+      "cluster": "cluster_8",
+      "definition_path": "cluster_8/risk_assessor.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    },
+    {
+      "agent_id": "visionary",
+      "cluster": "cluster_8",
+      "definition_path": "cluster_8/visionary.md",
+      "state": {
+        "status": "idle",
+        "goals": [],
+        "active_context_summary": "",
+        "memory_refs": [],
+        "last_outputs": []
+      }
+    }
+  ],
+  "connections": [
+    {
+      "from": "cluster_8/governance",
+      "to": "cluster_1/security",
+      "type": "policy_gate"
+    },
+    {
+      "from": "cluster_1/supervisor",
+      "to": "cluster_1/logic_engineer",
+      "type": "delegate"
+    },
+    {
+      "from": "cluster_1/supervisor",
+      "to": "cluster_2/backend",
+      "type": "delegate"
+    },
+    {
+      "from": "cluster_1/supervisor",
+      "to": "cluster_7/synthesizer",
+      "type": "delegate"
+    },
+    {
+      "from": "cluster_1/compactor",
+      "to": "limbic/hippocampus_encoder",
+      "type": "persist"
+    },
+    {
+      "from": "cluster_8/finalizer",
+      "to": "cluster_1/compactor",
+      "type": "export_request"
+    }
+  ]
+}
